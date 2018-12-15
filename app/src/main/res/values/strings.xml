@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My_Dreidel</string>
+    <string name="button_text">Spin the Dreidel</string>
+    <string name="logo_description">Main Logo</string>
+    <string name="dreidel_description">Dreidel Image</string>
+</resources>
